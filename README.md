@@ -1,6 +1,7 @@
 # DataSynth
 
-![QR Code] (DataSynth/[QRCODE] DATASYNTH.png)
+![QR Code](DataSynth/QRCode.png)
+
 DataSynth é uma ferramenta para anonimização de dados sensíveis de transações financeiras utilizando técnicas de ruído branco e criptografia. DataSynthDecripter é uma ferramenta complementar que permite a recuperação dos dados originais a partir dos dados encriptados.
 
 ## Descrição
