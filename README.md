@@ -15,7 +15,6 @@ DataSynth aplica ruído branco gaussiano aos dados sensíveis para anonimizaçã
    ```bash
    pip install -r requirements.txt
 
-
 ## Uso
 ### DataSynth
 
