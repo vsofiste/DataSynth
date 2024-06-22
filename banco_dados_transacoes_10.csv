@@ -1,0 +1,11 @@
+ID_Transacao,Nome_Cliente,Numero_Cartao,Codigo_Autorizacao,Data_Transacao,Valor_Transacao,Nome_Loja,Endereco_Faturamento,Endereco_IP,Email_Cliente,Telefone_Cliente
+1,Ana Costa,4099-9322-2685-1769,748531,2023-01-01 00:00:00,191.13,Loja E,"Rua E, 112",192.168.1.3,ana.costa@example.com,51987654321
+2,Paula Oliveira,4343-7949-3433-6311,351995,2023-01-01 01:00:00,88.96,Loja B,"Rua E, 112",192.168.1.3,maria.souza@example.com,31987654321
+3,Carlos Lima,4955-7420-2184-5555,778843,2023-01-01 02:00:00,160.44,Loja E,"Rua A, 123",192.168.1.1,joao.silva@example.com,11987654321
+4,Paula Oliveira,4313-7396-9666-3558,672843,2023-01-01 03:00:00,52.02,Loja B,"Rua A, 123",192.168.1.3,paula.oliveira@example.com,51987654321
+5,Paula Oliveira,4681-3047-3747-1189,356508,2023-01-01 04:00:00,83.59,Loja A,"Rua A, 123",192.168.1.5,carlos.lima@example.com,21987654321
+6,Maria Souza,4957-3734-4005-5658,903591,2023-01-01 05:00:00,159.84,Loja D,"Rua A, 123",192.168.1.2,ana.costa@example.com,31987654321
+7,Carlos Lima,4875-8734-2267-2528,996942,2023-01-01 06:00:00,186.92,Loja D,"Rua D, 101",192.168.1.2,carlos.lima@example.com,11987654321
+8,Carlos Lima,4130-4556-4890-9838,206530,2023-01-01 07:00:00,158.57,Loja D,"Rua C, 789",192.168.1.1,carlos.lima@example.com,21987654321
+9,Carlos Lima,4020-6393-9792-9433,704365,2023-01-01 08:00:00,144.22,Loja E,"Rua C, 789",192.168.1.4,joao.silva@example.com,21987654321
+10,Paula Oliveira,4776-8513-3612-8041,922352,2023-01-01 09:00:00,134.94,Loja A,"Rua A, 123",192.168.1.1,carlos.lima@example.com,41987654321
